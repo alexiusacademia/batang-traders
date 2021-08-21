@@ -1,7 +1,11 @@
 ---
 title: Introduction to Cryptocurreny
 date: 2021-08-21 20:58:48
-tags:
+updated:
+tags: 
+    - bitcoin
+    - cryptocurrency
+    - blockchain
 comments: true
 ---
 A cryptocurrency is a digital currency that can be exchanged online. It resides on online ledgers and are protected by strong cryptography and circulates on a system called the **Blockchain**.

@@ -10,7 +10,9 @@ comments: true
 ---
 A cryptocurrency is a digital currency that can be exchanged online. It resides on online ledgers and are protected by strong cryptography and circulates on a system called the **Blockchain**.
 
-Blockchain is a decentralized technology, meaning, there is no central entity that controls and regulates it contrary to the fiat currencies like US dollars and Euros that is being controlled by the banking systems and institutions.
+Blockchain is a decentralized technology, meaning, there is no central entity that controls and regulates it contrary 
+<!-- more -->
+to the fiat currencies like US dollars and Euros that is being controlled by the banking systems and institutions.
 
 ## What are they for?
 

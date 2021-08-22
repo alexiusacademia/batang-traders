@@ -1,7 +1,7 @@
 ---
 title: Introduction to Cryptocurreny
 date: 2021-08-20 20:58:48
-updated:
+featured_image: https://images.pexels.com/photos/6765369/pexels-photo-6765369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 tags: 
     - bitcoin
     - cryptocurrency

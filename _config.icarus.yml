@@ -17,7 +17,7 @@ head:
         # when there is not enough space to display full name
         short_name: 'batang-traders'
         # The start URL of the web application
-        start_url: https://batang-traders.syncsoftsolutions.com
+        start_url: https://batangtrader.com
         # The default theme color for the application
         theme_color: "#3273dc"
         # A placeholder background color for the application page to display
@@ -224,7 +224,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: syncster31
+        author: batang_trader
         # Author title
         author_title: Founder
         # Author's current location

@@ -1,11 +1,11 @@
-title: Batang Traders
+title: Batang Trader
 subtitle: ''
-description: ''
+description: 'Collection of views in the trading world focused on cryptocurrency trading.'
 keywords: null
-author: syncster31
+author: batang_trader
 language: en
 timezone: Asia/Manila
-url: https://batang-traders.syncsoftsolutions.com
+url: https://batangtrader.com
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:

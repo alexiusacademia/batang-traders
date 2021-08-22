@@ -6,6 +6,8 @@ tags:
     - bitcoin
     - cryptocurrency
     - blockchain
+categories:
+    - Overview
 comments: true
 ---
 A cryptocurrency is a digital currency that can be exchanged online. It resides on online ledgers and are protected by strong cryptography and circulates on a system called the **Blockchain**.

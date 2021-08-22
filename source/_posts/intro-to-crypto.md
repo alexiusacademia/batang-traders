@@ -36,6 +36,12 @@ According to the entity behind Bitcoin, in the name of Satoshi Nakamoto, "The ro
 
 Cryptos are backed by strong cryptography, in the case of Bitcoin, it was SHA-256 algorithm. It was developed by the the US NSA. Breaking this would be impossible as it is said that there are more possible keys in this algorithm (22<sup>56</sup>) than all the atoms in the universe<sup>[2]</sup>.
 
+## Crypto Privacy
+
+Bitcoin is very private. Even though a transaction is logged publicly, the person or entity that made the transaction remains anonymous. The name and location of the transacting parties are unknown, only the wallet address. This anonymity sadly became advantageous to other people. This was famous in the transaction of underground dealings that the governments cannot track.
+
+But even though it was used in bad applications, there are more than use cases for the betterment of life and for our advantage. I suggest we find those uses and benefit from them for good.
+
 
 ---
 _References_

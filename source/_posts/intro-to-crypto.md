@@ -1,7 +1,7 @@
 ---
 title: Introduction to Cryptocurreny
 date: 2021-08-20 20:58:48
-featured_image: https://images.pexels.com/photos/6765369/pexels-photo-6765369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+cover: https://images.pexels.com/photos/6765369/pexels-photo-6765369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 tags: 
     - bitcoin
     - cryptocurrency
@@ -9,6 +9,7 @@ tags:
 categories:
     - Overview
 comments: true
+toc: true
 ---
 A cryptocurrency is a digital currency that can be exchanged online. It resides on online ledgers and are protected by strong cryptography and circulates on a system called the **Blockchain**.
 

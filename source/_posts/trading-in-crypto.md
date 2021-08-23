@@ -2,6 +2,8 @@
 title: Trading Cryptocurrency
 date: 2021-08-22 00:30:14
 cover: https://images.pexels.com/photos/7567486/pexels-photo-7567486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+categories:
+    - Trading
 tags:
     - trading
     - cryptocurrency

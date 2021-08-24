@@ -104,17 +104,27 @@ Sending through XRP network is very fast compared to others. Now the reason why 
 
 ## Withrawal
 
+** Under Writing **
+
 
 ## HODL
+
+** Under Writing **
 
 
 ## Selecting the Good Time to Buy
 
+** Under Writing **
+
 
 ## Automate Buying and Selling
 
+** Under Writing **
+
 
 ## Technical Analysis
+
+** Under Writing **
 
 [Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 
@@ -177,3 +187,5 @@ Remember that you may find it sometimes that more than `0.33%` is doable in a da
 
 
 ## Final Remarks
+
+** Under Writing **

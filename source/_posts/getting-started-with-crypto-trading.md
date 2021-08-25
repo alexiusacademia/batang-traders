@@ -88,7 +88,7 @@ Then for the last one that I recommend, remember I mentioned that we should buy 
 
 I will not go into detail by posting images about this section but the process is all you need.
 
-1. First, you should download the _Coins.ph_ app.
+1. First, download the _Coins.ph_ app.
 2. Create an account and do the verifications atleast for the first 2 levels. Level 3 gives you more flexibility by giving you a cash-in limit of Php400,000.00 and not cash-out limit.
 3. Fund your coins.ph account using bank transfer or using other e-wallets.
 4. When you have PHP already in your coins.ph and ready to fund Binance using it, convert this PHP to XRP coin inside coins.ph. 

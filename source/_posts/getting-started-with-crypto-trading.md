@@ -101,33 +101,47 @@ I will not go into detail by posting images about this section but the process i
 
 Sending through XRP network is very fast compared to others. Now the reason why we choose this method is that you only have to worry about the conversion from PHP (Peso) to XRP which is of course have charge or mark-up. Then when sending from Coins.ph to Binance, it only costs `0.000045 XRP` or about 15 pesos at the time of this writing.
 
+You can find that using Coins.ph is better in regard to charges compared to the other two.
+
 
 ## Withrawal
 
-** Under Writing **
+Withrawal from Binance is a little bit hard when you compare it to CEX.IO. As I have mentioned, you can withraw from CEX.IO directly to your debit card which is very convenient for us. However, in Binance, you have the option of the P2P and the Withraw from wallet feature. In the P2P, that's almost the same as when buying crypto so you just have to follow the steps you did when you make deposit using crypto. However, as the XRP transfer is cheap, this is what I have been using and this is what I recommend.
+
+When withrawing using XRP, I still use Coins.ph as it can be connected to your bank account and other e-wallets and it is most convenient for me.
+
+To withraw funds, convert your fund to XRP coin. Then use the wallet address and destination tag in Coins.ph to be feed on Binance withraw form. Make sure that the network is XRP so that your money woun't be lost.
 
 
 ## HODL
 
-** Under Writing **
+HODL is just a term used in the crypto world and just means to hold your asset for a long period of time until you decide to sell it at your selected price range. This may refer to both long term and short term traders.
 
 
-## Selecting the Good Time to Buy
+## Selecting the Good Time to Buy and to Sell
 
-** Under Writing **
+Now this may be an interesting part of this post and have extention for a more broad and separate articles in this website. 
 
+Knowing the time for you to buy and to sell maximizes your chance of getting profit on your desired time. One of the reason why setting goal is important (see section below).
 
-## Automate Buying and Selling
+If your target is to have a specific amount or percentage of profit in a regular basis, setting goal is very important for you. As begginers, I suggest you follow the section below for the daily goals or scale them accordingly based on your capital.
 
-** Under Writing **
+The main thing we shall remember is that, if we buy a certain asset or crypto, we shall only sell it at the price higher than our buy price. This ensure our profit. Never ever panic to sell especially if you have bought known coins in the market worrying that it may never go up.
+
+The best time to buy is really the time when the market is down. Following news and articles in the internet about cryptocurrencies is a good way of finding out if the market is down. However, on Binance, you can already learn about it by following the chart of a certain crypto. Make sure you are viewing it on a longer candle time frame like 1-hour. This gives you an idea if the trend is going down (bearish).
+
+The main advantage of crypto is it's volatility, so that's where we can come in. We take advantage of it's price fluctuations buy buying the lows and selling at certain amount of profit. If we do this consistently, we ensure that our goal is met and our target profit achieved.
 
 
 ## Technical Analysis
 
-** Under Writing **
+On binance, certain classical patterns can be viewed at the page with the link below.
 
 [Classical Chart Patterns](https://academy.binance.com/en/articles/a-beginners-guide-to-classical-chart-patterns)
 
+Technical analysis is the analysis of the price trend by using the available tools in Binance or other platforms. These tools are the charts, candle sticks inside the chart, drawing tools and indicators. On the above link, various known patterns are introduced to give the readers familiarity on the known chart patterns developed and observed by old time and expert traders.
+
+I may create a separate article regarding the technical analysis and the right time for buying and selling but for now, you can use this basic information about them.
 
 ## Setting Goals
 
@@ -188,4 +202,6 @@ Remember that you may find it sometimes that more than `0.33%` is doable in a da
 
 ## Final Remarks
 
-** Under Writing **
+Trading is fun. Especially when you track your activities and see that you are actually gaining profit from it. Trading can also be frustrating if you continually lost or not gaining any profit in a few days. But this is part of it. Belonging to a group of traders can help a lot. You may share insights and opinions about your experiences that can absolutely change the way you do trading. 
+
+Another final thought and reminders. Patience, discipline and study. These are your internal tools that can help you succeed in trading. Thanks for reading and goodluck! See you on the next articles.

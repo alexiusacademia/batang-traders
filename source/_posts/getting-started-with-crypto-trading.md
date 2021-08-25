@@ -1,11 +1,12 @@
 ---
-title: getting-started-with-crypto-trading
+title: getting started with crypto trading
 date: 2021-08-24 20:49:02
 tags:
     - trading
 categories:
     - Trading
 toc: true
+cover: https://images.pexels.com/photos/163444/sport-treadmill-tor-route-163444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 ---
 
 ## Introduction

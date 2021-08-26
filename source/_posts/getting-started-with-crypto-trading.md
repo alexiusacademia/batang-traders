@@ -41,7 +41,7 @@ Now before that, I shall mention that you must select a stable cryptocurrency wh
 
 ### 1. P2P
 
-P2P means Person to Person. Basically, you are dealing with another person from Binance in buying or selling a cryptocurrency.
+P2P means Peer to Peer or person directly with another person. Basically, you are dealing with another person from Binance in buying or selling a cryptocurrency.
 
 {% asset_img p2p_menu.png %}  <br><br>
 
